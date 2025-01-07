@@ -65,7 +65,7 @@
             <TI_CY>България</TI_CY>
             <TI_TOWN>София</TI_TOWN>
             <TI_TEXT>
-               <P>Услуги по поддържане и ремонт на софтуер</P>
+               <P>Услуги по поддържане &amp; ремонт на софтуер</P>
             </TI_TEXT>
          </ML_TI_DOC>
          <ML_TI_DOC LG="CS">
@@ -100,7 +100,7 @@
             <TI_CY>Bulgaria</TI_CY>
             <TI_TOWN>Sofia</TI_TOWN>
             <TI_TEXT>
-               <P>            Software maintenance and repair services                 </P>
+               <P>            Software maintenance & repair services                 </P>
             </TI_TEXT>
          </ML_TI_DOC>
          <ML_TI_DOC LG="ES">
