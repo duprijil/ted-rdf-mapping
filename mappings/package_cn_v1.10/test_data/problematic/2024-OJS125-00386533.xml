@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.viborg.dk</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="DAN">Viborg kommune</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Prinsens Alle 5</cbc:StreetName>
+                  <cbc:CityName>Viborg</cbc:CityName>
+                  <cbc:PostalZone>8800</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">DK041</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>29189846</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Anne Husum Mikkelsen</cbc:Name>
+                  <cbc:Telephone>+45 87878787</cbc:Telephone>
+                  <cbc:ElectronicMail>ahmi@viborg.dk</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.comdia.com/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-1000</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="DAN">Comdia ApS</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Lindvedvej 73</cbc:StreetName>
+                  <cbc:CityName>Odense S</cbc:CityName>
+                  <cbc:PostalZone>5260</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">DK031</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>33501404</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+45 7199 3672</cbc:Telephone>
+                  <cbc:ElectronicMail>support@comdia.com</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://www.klfu.dk</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-1001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="DAN">Klagenævnet for Udbud</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Nævnenes Hus, Toldboden 2</cbc:StreetName>
+                  <cbc:CityName>Viborg</cbc:CityName>
+                  <cbc:PostalZone>8800</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">DK041</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>37795526</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+45 7240 5600</cbc:Telephone>
+                  <cbc:ElectronicMail>klfu@naevneneshus.dk</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.kfst.dk/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-1002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="DAN">Konkurrence- og Forbrugerstyrelsen</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Carl Jacobsens Vej 35</cbc:StreetName>
+                  <cbc:CityName>Valby</cbc:CityName>
+                  <cbc:PostalZone>2500</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">DK012</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>10294819</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+45 4171 5000</cbc:Telephone>
+                  <cbc:ElectronicMail>kfst@kfst.dk</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00386533-2024</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">125/2024</efbc:GazetteID><efbc:PublicationDate>2024-06-28Z</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.10</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">94c7f438-f737-4425-a63e-ebb9210a866d</cbc:ID>
+  <cbc:ContractFolderID>8220f1dc-5594-44ed-b7c5-1a24d8978bbd</cbc:ContractFolderID>
+  <cbc:IssueDate>2024-06-27+02:00</cbc:IssueDate>
+  <cbc:IssueTime>08:28:00+02:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>DAN</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">ra</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-1000</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingTerms>
+    <cac:TendererQualificationRequest>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">envir-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ordregiveren kan påvise, at ansøgeren eller tilbudsgiveren har tilsidesat gældende forpligtelser inden for det miljø-, social- eller arbejdsretlige område i henhold til EU-retten, national lovgivning, kollektive aftaler eller de miljø-, social- eller arbejdsretlige forpligtelser, der er afledt af konventionerne, der er nævnt i bilag X til Europa-Parlamentets og Rådets direktiv 2014/24/EU af 26. februar 2014 om offentlige udbud og om ophævelse af direktiv 2004/18/EF (EU-Tidende 2014, nr. L 94, side 65), eller er omfattet af retsakter, der vedtages af Europa-Kommissionen i medfør af direktivets artikel 57, stk. 4, jf. artikel 88.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.  </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">socsec-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ordregiveren kan påvise, at ansøgeren eller tilbudsgiveren har tilsidesat gældende forpligtelser inden for det miljø-, social- eller arbejdsretlige område i henhold til EU-retten, national lovgivning, kollektive aftaler eller de miljø-, social- eller arbejdsretlige forpligtelser, der er afledt af konventionerne, der er nævnt i bilag X til Europa-Parlamentets og Rådets direktiv 2014/24/EU af 26. februar 2014 om offentlige udbud og om ophævelse af direktiv 2004/18/EF (EU-Tidende 2014, nr. L 94, side 65), eller er omfattet af retsakter, der vedtages af Europa-Kommissionen i medfør af direktivets artikel 57, stk. 4, jf. artikel 88.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.  </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">labour-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ordregiveren kan påvise, at ansøgeren eller tilbudsgiveren har tilsidesat gældende forpligtelser inden for det miljø-, social- eller arbejdsretlige område i henhold til EU-retten, national lovgivning, kollektive aftaler eller de miljø-, social- eller arbejdsretlige forpligtelser, der er afledt af konventionerne, der er nævnt i bilag X til Europa-Parlamentets og Rådets direktiv 2014/24/EU af 26. februar 2014 om offentlige udbud og om ophævelse af direktiv 2004/18/EF (EU-Tidende 2014, nr. L 94, side 65), eller er omfattet af retsakter, der vedtages af Europa-Kommissionen i medfør af direktivets artikel 57, stk. 4, jf. artikel 88.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">bankruptcy</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ansøgeren eller tilbudsgiveren er erklæret konkurs eller er under insolvens- eller likvidationsbehandling, hvis dennes aktiver administreres af en kurator eller af retten, hvis denne er under tvangsakkord, hvis dennes erhvervsvirksomhed er blevet indstillet eller denne befinder sig i en lignende situation i henhold til en tilsvarende procedure, der er fastsat i national lovgivning, hvor ansøgeren eller tilbudsgiveren er hjemhørende.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153. </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">insolvency</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ansøgeren eller tilbudsgiveren er erklæret konkurs eller er under insolvens- eller likvidationsbehandling, hvis dennes aktiver administreres af en kurator eller af retten, hvis denne er under tvangsakkord, hvis dennes erhvervsvirksomhed er blevet indstillet eller denne befinder sig i en lignende situation i henhold til en tilsvarende procedure, der er fastsat i national lovgivning, hvor ansøgeren eller tilbudsgiveren er hjemhørende.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">cred-arran</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ansøgeren eller tilbudsgiveren er erklæret konkurs eller er under insolvens- eller likvidationsbehandling, hvis dennes aktiver administreres af en kurator eller af retten, hvis denne er under tvangsakkord, hvis dennes erhvervsvirksomhed er blevet indstillet eller denne befinder sig i en lignende situation i henhold til en tilsvarende procedure, der er fastsat i national lovgivning, hvor ansøgeren eller tilbudsgiveren er hjemhørende.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">bankr-nat</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ansøgeren eller tilbudsgiveren er erklæret konkurs eller er under insolvens- eller likvidationsbehandling, hvis dennes aktiver administreres af en kurator eller af retten, hvis denne er under tvangsakkord, hvis dennes erhvervsvirksomhed er blevet indstillet eller denne befinder sig i en lignende situation i henhold til en tilsvarende procedure, der er fastsat i national lovgivning, hvor ansøgeren eller tilbudsgiveren er hjemhørende.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">liq-admin</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ansøgeren eller tilbudsgiveren er erklæret konkurs eller er under insolvens- eller likvidationsbehandling, hvis dennes aktiver administreres af en kurator eller af retten, hvis denne er under tvangsakkord, hvis dennes erhvervsvirksomhed er blevet indstillet eller denne befinder sig i en lignende situation i henhold til en tilsvarende procedure, der er fastsat i national lovgivning, hvor ansøgeren eller tilbudsgiveren er hjemhørende.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153. </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">susp-act</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ansøgeren eller tilbudsgiveren er erklæret konkurs eller er under insolvens- eller likvidationsbehandling, hvis dennes aktiver administreres af en kurator eller af retten, hvis denne er under tvangsakkord, hvis dennes erhvervsvirksomhed er blevet indstillet eller denne befinder sig i en lignende situation i henhold til en tilsvarende procedure, der er fastsat i national lovgivning, hvor ansøgeren eller tilbudsgiveren er hjemhørende.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">prof-misconduct</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller en tilbudsgiver fra deltagelse i en udbudsprocedure, når ordregiveren kan påvise, at ansøgeren eller tilbudsgiveren i forbindelse med udøvelsen af sit erhverv har begået alvorlige forsømmelser, der sår tvivl om ansøgerens eller tilbudsgiverens integritet.  Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">partic-confl</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller en tilbudsgiver fra deltagelse i en udbudsprocedure, når ordregiveren kan påvise, at en interessekonflikt, jf. udbudslovens § 24, nr. 18, i forhold til det pågældende udbud ikke kan afhjælpes effektivt med mindre indgribende foranstaltninger.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.  </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">prep-confl</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller en tilbudsgiver fra deltagelse i en udbudsprocedure, når ordregiveren kan påvise, at en konkurrencefordrejning som omhandlet i udbudslovens § 39 som følge af den forudgående inddragelse af de økonomiske aktører i forberedelsen af udbudsproceduren i forhold til det pågældende udbud ikke kan afhjælpes med mindre indgribende foranstaltninger.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.  </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">sanction</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ansøger eller tilbudsgiver vil blive udelukket fra deltagelse i udbudsproceduren, hvis ordregiveren kan påvise, at ansøgeren eller tilbudsgiveren væsentligt har misligholdt en tidligere offentlig kontrakt, kontrakt med en forsyningsvirksomhed eller koncessionskontrakt og misligholdelsen har medført den pågældende kontrakts ophævelse eller en lignende sanktion.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">misrepresent</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller en tilbudsgiver fra deltagelse i en udbudsprocedure, når ordregiveren kan påvise, at ansøgeren eller tilbudsgiveren i det pågældende udbud har givet groft urigtige oplysninger, har tilbageholdt oplysninger eller ikke er i stand til at fremsende supplerende dokumenter vedrørende udelukkelsesgrundene i udbudslovens § 135, stk. 1 eller 3, og, hvis det er relevant, i udbudslovens § 137, stk. 1, nr. 2 eller 6, de fastsatte minimumskrav til egnethed i udbudslovens §§ 140-144 eller udvælgelsen i § 145.   Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">nati-ground</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">Udbudslovens § 134 a finder anvendelse, hvorfor en ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren er etableret i et land, der er optaget på EU-listen over ikkesamarbejdsvillige skattejurisdiktioner og ikke har tiltrådt WTO’s Government Procurement Agreement eller øvrige handelsaftaler, der forpligter Danmark til at åbne markedet for offentlige kontrakter for tilbudsgivere etableret i det pågældende land. Udbudslovens § 134 a, Stk. 2: § 135, stk. 6, finder tilsvarende anvendelse på situationer omfattet af stk. 1.  Dokumentation:  Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund. </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">terr-offence</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren ved endelig dom er dømt eller har vedtaget bødeforlæg for terrorhandlinger eller strafbare handlinger med forbindelse til terroraktivitet som defineret i henholdsvis artikel 1, 3 og 4 i Rådets rammeafgørelse 2002/475/RIA af 13. juni 2002 om bekæmpelse af terrorisme (EU-Tidende 2002, nr. L 164, side 3) som ændret ved Rådets rammeafgørelse 2008/919/RIA af 28. november 2008 om ændring af rammeafgørelse 2002/475/RIA om bekæmpelse af terrorisme (EU-Tidende 2008, nr. L 330, side 21).   Dokumentation: i overensstemmelse med udbudslovens §§ 152-153</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">socsec-pay</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">Ordregiveren skal udelukke en ansøger eller en tilbudsgiver, der har ubetalt forfalden gæld på 100.000 kr. eller derover til offentlige myndigheder vedrørende skatter, afgifter eller bidrag til sociale sikringsordninger i henhold til dansk lovgivning eller lovgivningen i det land, hvor ansøgeren eller tilbudsgiveren er etableret.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">tax-pay</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">Ordregiveren skal udelukke en ansøger eller en tilbudsgiver, der har ubetalt forfalden gæld på 100.000 kr. eller derover til offentlige myndigheder vedrørende skatter, afgifter eller bidrag til sociale sikringsordninger i henhold til dansk lovgivning eller lovgivningen i det land, hvor ansøgeren eller tilbudsgiveren er etableret.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">crime-org</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren ved endelig dom er dømt eller har vedtaget bødeforlæg for handlinger begået som led i en kriminel organisation som defineret i artikel 2 i Rådets rammeafgørelse 2008/841/RIA af 24. oktober 2008 (EU-Tidende 2008, nr. L 300, side 42).   Dokumentation: i overensstemmelse med udbudslovens §§ 152-153. </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">finan-laund</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren ved endelig dom er dømt eller har vedtaget bødeforlæg for hvidvaskning af penge eller finansiering af terrorisme som defineret i artikel 1 i Europa-Parlamentets og Rådets direktiv 2005/60/EF af 26. oktober 2005 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvaskning af penge og finansiering af terrorisme (EU-Tidende 2005, nr. L 309, side 15).  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153. </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">fraud</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren ved endelig dom er dømt eller har vedtaget bødeforlæg for svig som omhandlet i artikel 1 i konventionen om beskyttelse af De Europæiske Fællesskabers finansielle interesser.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153. </cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">human-traffic</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren ved endelig dom er dømt eller har vedtaget bødeforlæg for overtrædelse af straffelovens § 262 a eller, for så vidt angår en dom fra et andet land angående børnearbejde og andre former for menneskehandel som defineret i artikel 2 i Europa-Parlamentets og Rådets direktiv 2011/36/EU af 5. april 2011 om forebyggelse og bekæmpelse af menneskehandel og beskyttelse af ofrene herfor, og om erstatning af Rådets rammeafgørelse 2002/629/RIA (EU-Tidende 2011, nr. L 101, side 1).  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">corruption</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="DAN">En ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren ved endelig dom er dømt eller har vedtaget bødeforlæg for bestikkelse som defineret i artikel 3 i konventionen om bekæmpelse af bestikkelse, som involverer tjenestemænd ved De Europæiske Fællesskaber eller i Den Europæiske Unions medlemsstater, og artikel 2, stk. 1, i Rådets rammeafgørelse 2003/568/RIA af 22. juli 2003 om bekæmpelse af bestikkelse i den private sektor (EU-Tidende 2003, nr. L 192, side 54) og bestikkelse som defineret i den nationale ret i ansøgerens eller tilbudsgiverens medlemsstat eller hjemland eller i det land, hvor ansøgeren eller tilbudsgiveren er etableret.  Dokumentation: i overensstemmelse med udbudslovens §§ 152-153.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+    </cac:TendererQualificationRequest>
+  </cac:TenderingTerms>
+  <cac:TenderingProcess>
+    <ext:UBLExtensions>
+      <ext:UBLExtension>
+        <ext:ExtensionContent>
+          <efext:EformsExtension>
+            <efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator>
+          </efext:EformsExtension>
+        </ext:ExtensionContent>
+      </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:Description languageID="DAN">Kun ansøgere der bliver prækvalificeret vil kunne afgive tilbud.</cbc:Description>
+    <cbc:ProcedureCode listName="procurement-procedure-type">restricted</cbc:ProcedureCode>
+    <cac:ProcessJustification>
+      <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+    </cac:ProcessJustification>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID schemeName="InternalID">285953</cbc:ID>
+    <cbc:Name languageID="DAN">Totalrådgivning – Renovering af  Bjerringbro skole &amp; Base Business</cbc:Name>
+    <cbc:Description languageID="DAN">Udbuddet vedrører totalrådgivning til Viborg Kommune på renovering af Bjerringbro skole &amp; Base Business til én samlet skole. 
+
+Ydelsen omfatter totalrådgivning (arkitekt- og ingeniørydelser) vedrørende projektering, udbud og renovering af Bjerringbro skole og Base Business til én samlet skole. Totalrådgiveren skal bistå Ordregiver med at koordinere byggesagen under hele forslags-, projekterings- og udførelsesfasen samt aflevering, 1 årsgennemgang og idriftsættelse som beskrevet i bilagsmaterialet. 
+
+Byggeriet udbydes i offentlig licitation i storentrepriser. 
+
+Der er i alt bevilget 52,5 mio. kr. ekskl. moms til projektet, og den styrende økonomiske ramme for rådgiverens løsning af opgaven (håndværkerudgifterne ekskl. moms) er på ca. 35 mio. kr. inklusiv uforudsete udgifter.
+
+Grundet sommerferie, vil der ikke blive besvaret spørgsmål i uge 28-31
+
+Der afholdes besigtigelse for prækvalificerede tilbudsgivere torsdag d. 10. oktober 2024, kl. 10.00. 
+
+Der afholdes tilbudspræsentationer d. 18. og 19. november 2024 i forbindelse med tilbudsevalueringen.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cbc:Note languageID="DAN">Udbudslovens § 134 a finder anvendelse, hvorfor en ordregiver skal udelukke en ansøger eller tilbudsgiver fra deltagelse i en udbudsprocedure, hvis ansøgeren eller tilbudsgiveren er etableret i et land, der er optaget på EU-listen over ikkesamarbejdsvillige skattejurisdiktioner og ikke har tiltrådt WTO’s Government Procurement Agreement eller øvrige handelsaftaler, der forpligter Danmark til at åbne markedet for offentlige kontrakter for tilbudsgivere etableret i det pågældende land. Udbudslovens § 134 a, stk. 2: § 135, stk. 6, finder tilsvarende anvendelse på situationer omfattet af stk. 1.
+Dokumentation: Ordregiver er berettiget til at indhente relevant dokumentation for hvorvidt ansøger eller tilbudsgiver befinder sig i en situation som kan medføre udelukkelse i medfør af nærværende udelukkelsesgrund.  </cbc:Note>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="DKK">4750000</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">71000000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">71200000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">71300000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:RealizedLocation>
+      <cbc:Description languageID="DAN">Viborg Kommune</cbc:Description>
+      <cac:Address>
+        <cbc:CityName>Viborg</cbc:CityName>
+        <cbc:PostalZone>8800</cbc:PostalZone>
+        <cbc:CountrySubentityCode listName="nuts">DK041</cbc:CountrySubentityCode>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">DNK</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:SelectionCriteria>
+                <cbc:CriterionTypeCode listName="selection-criterion">tp-abil</cbc:CriterionTypeCode>
+                <cbc:Name languageID="DAN">For så vidt angår tjenesteydelseskontrakter: udførelse af tjenesteydelser af den anførte type</cbc:Name>
+                <cbc:Description languageID="DAN">Ansøger skal aflevere 3 sammenlignelige hoved-referencer. Hermed forstås rådgivning, der er sammenlignelig med den udbudte opgave i art og omfang, herunder særligt referencer der indeholder følgende elementer:
+o	Ombygning af skoler – særligt indretningsforslag med fokus på nye undervisningsmetoder og de bygningsmæssige krav det afføder
+o	Projekter for ASF-elever (autisme spektrum forstyrrelser) og deres særlige behov
+o	Tilsvarende størrelse, økonomisk ramme og/eller kompleksitet som Bjerringbro skole og Base Business 
+o	Totalrådgivning
+o	Gennemførelse af brugerinddragelse med personale og evt. elever
+Det er ikke et krav, at hver af de 3 hoved-referencer indeholder samtlige ovenstående punkter.  
+
+Ansøger kan derudover aflevere op til 3 supplerende referencer, som kan supplere de ovenstående punkter fra hoved-referencerne, f.eks. fra eventuelle underrådgivere, der tilknyttes projektet.
+Referencerne skal være udført inden for de seneste 7 år regnet fra ansøgningsfristen. Det vil sige referencerne både kan være fra igangværende eller afleverede byggerier.</cbc:Description>
+                <cbc:CalculationExpressionCode listName="usage">used</cbc:CalculationExpressionCode>
+                <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                <efac:CriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                </efac:CriterionParameter>
+              </efac:SelectionCriteria>
+              <efac:SelectionCriteria>
+                <cbc:CriterionTypeCode listName="selection-criterion">sui-act</cbc:CriterionTypeCode>
+                <cbc:Description languageID="DAN">Ikke anvendt</cbc:Description>
+                <cbc:CalculationExpressionCode listName="usage">n-used</cbc:CalculationExpressionCode>
+              </efac:SelectionCriteria>
+              <efac:SelectionCriteria>
+                <cbc:CriterionTypeCode listName="selection-criterion">other</cbc:CriterionTypeCode>
+                <cbc:Name languageID="DAN">Bedste konkurrencefelt</cbc:Name>
+                <cbc:Description languageID="DAN">Udvælgelsen sker på et objektivt og sagligt grundlag på baggrund af en samlet vurdering af ansøgernes tekniske kapacitet. Ved vurderingen af referencerne vil der blive lagt vægt på, i hvilken grad ansøgernes referencer er sammenlignelige med det udbudte projekt.
+Der vil blive lagt særlig vægt på, at der udvises erfaring med byggeri af tilsvarende størrelse og kompleksitet indeholdende ombygning til undervisning/læringsmiljøer og undervisningslokaler til ASF-elever, hvor der er udført bruger-inddragelse samt projektering indenfor både arkitekt- og ingeniørfaglige. Ordregiver vil prækvalificere de teams, der samlet vurderes at have fremvist de mest sammenlignelige referencer, som bedst muligt svarer til de kompetencer og ydelser, som totalrådgiveren skal levere til ordregiver. 
+En hoved-reference vil vægtes særligt positivt, hvis ansøger har været totalrådgiver på projektet, samt hvis referencen indeholder flere af de beskrevne elementer i udbudsbetingelserne - herunder særligt ombygning til undervisning/læringsmiljøer af tilsvarende størrelse og kompleksitet, hvor der er udført brugerinddragelse. 
+
+Der henvises i øvrigt til udbudsbetingelserne.</cbc:Description>
+                <cbc:CalculationExpressionCode listName="usage">used</cbc:CalculationExpressionCode>
+                <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+              </efac:SelectionCriteria>
+              <efac:SelectionCriteria>
+                <cbc:CriterionTypeCode listName="selection-criterion">ef-stand</cbc:CriterionTypeCode>
+              </efac:SelectionCriteria>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cbc:RequiredCurriculaCode listName="requirement-stage">t-requ</cbc:RequiredCurriculaCode>
+      <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+      <cac:RequiredFinancialGuarantee>
+        <cbc:GuaranteeTypeCode listName="tender-guarantee-required">false</cbc:GuaranteeTypeCode>
+      </cac:RequiredFinancialGuarantee>
+      <cac:CallForTendersDocumentReference>
+        <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:OfficialLanguages>
+                  <cac:Language>
+                    <cbc:ID>DAN</cbc:ID>
+                  </cac:Language>
+                </efac:OfficialLanguages>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+        <cbc:ID>_DEFAULT_VALUE_CHANGE_ME_</cbc:ID>
+        <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+        <cac:Attachment>
+          <cac:ExternalReference>
+            <cbc:URI>https://www.comdia.com/viborg-kommune/tenderinformationshow.aspx?Id=285953</cbc:URI>
+          </cac:ExternalReference>
+        </cac:Attachment>
+      </cac:CallForTendersDocumentReference>
+      <cac:PaymentTerms>
+        <cbc:Note languageID="DAN">Der henvises til kontraktens bestemmelser om fakturering og betalingsvilkår.</cbc:Note>
+      </cac:PaymentTerms>
+      <cac:TendererQualificationRequest>
+        <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-some</cbc:TendererRequirementTypeCode>
+          <cbc:Description languageID="DAN">Ordregiver forbeholder sig retten til at indhente supplerende oplysninger i overensstemmelse med udbudslovens § 159, stk. 5.</cbc:Description>
+        </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+        <cbc:Description languageID="DAN">Der henvises til vedlagte udkast til kontrakt, herunder bl.a. krav om arbejdsklausul samt opretholdelse af forsikring.</cbc:Description>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="nda">false</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="esignature-submission">false</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>30</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="DAN">Samlet honorar</cbc:Name>
+            <cbc:Description languageID="DAN">Evaluering sker på baggrund af beløbet angivet i feltet ”Samlet honorarsum der konkurreres på”, jf. bilag 2 Tilbudsliste.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>35</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="DAN">Løsnings- og procesbeskrivelse</cbc:Name>
+            <cbc:Description languageID="DAN">Evalueringen sker på baggrund af tilbudsgiverens besvarelse af Løsnings- og procesbeskrivelse.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>35</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="DAN">Projektorganisation og nøglepersoner</cbc:Name>
+            <cbc:Description languageID="DAN">Evalueringen sker på baggrund af tilbudsgiverens besvarelse af Projektorganisation og nøglepersoner.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:TenderRecipientParty>
+        <cbc:EndpointID>https://www.comdia.com/viborg-kommune/tenderinformationshow.aspx?Id=285953</cbc:EndpointID>
+      </cac:TenderRecipientParty>
+      <cac:TenderValidityPeriod>
+        <cbc:DurationMeasure unitCode="MONTH">6</cbc:DurationMeasure>
+      </cac:TenderValidityPeriod>
+      <cac:AppealTerms>
+        <cac:PresentationPeriod>
+          <cbc:Description languageID="DAN">I henhold til lov om Klagenævnet for Udbud m.v. (loven kan hentes på www.retsinformation.dk), gælder følgende frister for indgivelse af klage:
+                                    Klage over ikke at være blevet udvalgt skal være indgivet til Klagenævnet for Udbud inden 20 kalenderdage, jf.lovens § 7, stk. 1, fra dagen efter afsendelse af en underretning til de berørte ansøgere om, hvem der er blevet udvalgt, når underretningen er ledsaget af en begrundelse for beslutningen i overensstemmelse med lovens §2, stk. 1, nr. 1, og udbudslovens § 171, stk. 2.
+                                    I andre situationer skal klage over udbud, jf.lovens § 7, stk. 2, være indgivet til Klagenævnet for Udbud inden:
+                                    1) 45 kalenderdage efter at ordregiveren har offentliggjort en bekendtgørelse i Den Europæiske Unions Tidende om, at ordregiveren har indgået en kontrakt.Fristen regnes fra dagen efter den dag, hvor bekendtgørelsen er blevet offentliggjort.
+                                    2) 20 kalenderdage regnet fra dagen efter at ordregiveren har meddelt sin beslutning, jf.udbudslovens § 185, stk. 2.
+                                    Senest samtidig med at en klage indgives til Klagenævnet for Udbud, skal klageren skriftligt underrette ordregiveren om, at klage indgives til Klagenævnet for Udbud, og om hvorvidt klagen er indgivet i standstill - perioden, jf.lovens § 6, stk. 4.I tilfælde hvor klagen ikke er indgivet i standstill - perioden, skal klageren tillige angive, hvorvidt der begæres opsættende virkning af klagen, jf.lovens § 12, stk. 1.
+                                    Klagenævnet for Udbuds e-mailadresse er angivet i punkt VI.4.1).
+                                    Klagenævnet for Udbuds klagevejledning kan findes på: www.erhvervsstyrelsen.dk.</cbc:Description>
+        </cac:PresentationPeriod>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-1002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-1001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+      <cac:Language>
+        <cbc:ID>DAN</cbc:ID>
+      </cac:Language>
+      <cac:PostAwardProcess>
+        <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+        <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+      </cac:PostAwardProcess>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:ParticipationRequestReceptionPeriod>
+        <cbc:EndDate>2024-09-03+02:00</cbc:EndDate>
+        <cbc:EndTime>12:00:00+02:00</cbc:EndTime>
+      </cac:ParticipationRequestReceptionPeriod>
+      <cac:EconomicOperatorShortList>
+        <cbc:LimitationDescription>true</cbc:LimitationDescription>
+        <cbc:MaximumQuantity>5</cbc:MaximumQuantity>
+        <cbc:MinimumQuantity>5</cbc:MinimumQuantity>
+      </cac:EconomicOperatorShortList>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">285953</cbc:ID>
+      <cbc:Name languageID="DAN">Totalrådgivning – Renovering af  Bjerringbro skole &amp; Base Business</cbc:Name>
+      <cbc:Description languageID="DAN">Udbuddet vedrører totalrådgivning til Viborg Kommune på renovering af Bjerringbro skole &amp; Base Business til én samlet skole. 
+
+Ydelsen omfatter totalrådgivning (arkitekt- og ingeniørydelser) vedrørende projektering, udbud og renovering af Bjerringbro skole og Base Business til én samlet skole. Totalrådgiveren skal bistå Ordregiver med at koordinere byggesagen under hele forslags-, projekterings- og udførelsesfasen samt aflevering, 1 årsgennemgang og idriftsættelse som beskrevet i bilagsmaterialet. 
+
+Byggeriet udbydes i offentlig licitation i storentrepriser. 
+
+Der er i alt bevilget 52,5 mio. kr. ekskl. moms til projektet, og den styrende økonomiske ramme for rådgiverens løsning af opgaven (håndværkerudgifterne ekskl. moms) er på ca. 35 mio. kr. inklusiv uforudsete udgifter.
+
+Grundet sommerferie, vil der ikke blive besvaret spørgsmål i uge 28-31
+
+Der afholdes besigtigelse for prækvalificerede tilbudsgivere torsdag d. 10. oktober 2024, kl. 10.00. 
+
+Der afholdes tilbudspræsentationer d. 18. og 19. november 2024 i forbindelse med tilbudsevalueringen.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="DKK">4750000</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71200000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71300000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:PlannedPeriod>
+        <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+        <cbc:DurationMeasure unitCode="YEAR">4</cbc:DurationMeasure>
+      </cac:PlannedPeriod>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+</ContractNotice>
